@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.crawlingdeadvr-20280985.unrealeditor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "E:/IntroToVR2022/CrawlingDeadVR/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "CrawlingDeadVR-20280985 [UE Editor]"
+				}
+			}
+		}
+	]
+}
